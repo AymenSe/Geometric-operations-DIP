@@ -1,0 +1,5 @@
+Package                 Version  
+----------------------- ---------
+matplotlib              3.4.2    
+numpy                   1.18.5   
+opencv-python           4.5.2.52 
